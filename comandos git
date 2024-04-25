@@ -1,0 +1,14 @@
+site para edição de arquivo readme - https://readme.so/
+comando git
+- git init
+- git romote add origin url
+- git commit -m "mensagem de commit"
+- git status
+- git log
+- git add .
+- git restore nome do arquivo
+- git commit --amend -m"nova mensagem"
+- git reset --soft (rest do commit)
+- git reset --mixed (rest do commit)
+- git reset --hard (rest do commit)
+- git reflog
